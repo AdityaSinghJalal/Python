@@ -2,7 +2,7 @@ print ('hi')
 a="gabbar"
 print(a)
 
-digit= 6
+digit= 7
 print(digit)
 
 b=6
